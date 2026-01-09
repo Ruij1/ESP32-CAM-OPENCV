@@ -43,3 +43,8 @@ Both contributors participated in the design, development, and testing of the so
 
 ## Project Type
 Collaborative experimental IoT and computer vision project.
+
+## Images 
+![0E4D16C7-EB68-40BD-A0C2-E91C2B7BD201](https://github.com/user-attachments/assets/7ac70f95-bdae-4493-90a5-62d0faae8440)
+![4091CD6C-5C8A-4BA1-8F15-21E931573C7D](https://github.com/user-attachments/assets/a6bacfde-5071-415c-a05f-6ebf8fb07124)
+
